@@ -1,4 +1,4 @@
-# Expense Tracker
+# expense Tracker
 
 A simple yet powerful Flask application to track your daily expenses, set budgets, manage recurring transactions, and work towards savings goals.
 
@@ -131,3 +131,4 @@ Choose your preferred license, or keep this repository private. If you want a li
 
 ---
 If you want the README to match the exact wording/structure of your PDF, please upload the PDF or paste the relevant sections and I will reproduce the content precisely.
+
