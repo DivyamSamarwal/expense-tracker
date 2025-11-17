@@ -126,9 +126,6 @@ Also configure a proper `DATABASE_URL`, secure `SESSION_SECRET`, and use HTTPS (
 - `init_db.py` to create tables
 - A `THEME.md` documenting theme variables
 
-## License
-Choose your preferred license, or keep this repository private. If you want a license file added (MIT, Apache2, etc.), tell me which one and I will add it.
 
----
-If you want the README to match the exact wording/structure of your PDF, please upload the PDF or paste the relevant sections and I will reproduce the content precisely.
+
 
