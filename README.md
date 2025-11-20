@@ -29,10 +29,10 @@ Follow these steps to set up and run the application locally.
 Open your terminal or PowerShell and run the following command. 
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/DivyamSamarwal/expense-tracker/
 cd ExpenseTracker
 ```
-*(Note: Replace `<repository-url>` with the actual URL of the GitHub repository.)*
+
 
 ### 2. Create and Activate a Virtual Environment
 
@@ -125,6 +125,7 @@ Also configure a proper `DATABASE_URL`, secure `SESSION_SECRET`, and use HTTPS (
 - A small helper `run.ps1` to automate setup and serving on Windows
 - `init_db.py` to create tables
 - A `THEME.md` documenting theme variables
+
 
 
 
